@@ -2,6 +2,10 @@
 
 ## 📸 Website Screenshots
 
+**1. MainGUI**
+
+![Screenshot 2025-06-09 221934](https://github.com/user-attachments/assets/0b76e1a4-f1be-48ff-bf4e-d7fc79489efc)
+
 ### 🏠 Home Page
 ![Home Page](images/home_page.png)
 
